@@ -2781,3 +2781,385 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 34 (Closing connection)
 [2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
 [2024.03.25-14.37.20:821][800]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F860B80-40BD-73E0-118C-C4945228B3BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-14.39.09:663][217]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.39.09:705][217]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.25-14.39.09:807][220]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.39.09:853][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.25-14.39.10:495][277]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-14.39.10:674][277]LogSavePackage: Moving output files for package: /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig
+[2024.03.25-14.39.10:675][277]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRigDB86A8AD458F67DDC0705F836BBB00B6.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Content/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.uasset'
+[2024.03.25-14.39.10:684][277]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 1.77 sec)
+[2024.03.25-14.39.10:705][277]AssetCheck: New page: Asset Save: SpiderWalkControlRig
+[2024.03.25-14.39.10:705][277]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig
+[2024.03.25-14.39.12:080][398]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.03.25-14.39.12:085][398]LogContentBundle: [ProceduralAnimTest(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.25-14.39.12:085][398]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' started...
+[2024.03.25-14.39.12:162][398]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' took 75 ms (total: 679 ms)
+[2024.03.25-14.39.12:163][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.25-14.39.12:163][398]PIE: New page: SIE session: ProceduralAnimTest (Mar 25, 2024, 4:39:12 AM)
+[2024.03.25-14.39.12:163][398]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-14.39.12:171][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009015s)
+[2024.03.25-14.39.12:171][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProceduralAnimTest.ProceduralAnimTest to /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest (0.009042s)
+[2024.03.25-14.39.12:186][398]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.25-14.39.12:189][398]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-14.39.12:189][398]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-14.39.12:189][398]LogAIModule: Creating AISystem for world ProceduralAnimTest
+[2024.03.25-14.39.12:190][398]LogWorldPartition: ULevel::OnLevelLoaded(ProceduralAnimTest)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.25-14.39.12:190][398]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.25-14.39.12:190][398]LogWorldPartition: UWorldPartition::Initialize : World = ProceduralAnimTest, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.25-14.39.12:190][398]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.25-14.39.12:192][398]LogContentBundle: [ProceduralAnimTest(Standalone)] Creating new contrainer.
+[2024.03.25-14.39.12:192][398]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 662 ms)
+[2024.03.25-14.39.12:192][398]LogPlayLevel: PIE: World Init took: (0.003657s)
+[2024.03.25-14.39.12:192][398]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.03.25-14.39.12:192][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.25-14.39.12:192][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.25-14.39.12:192][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.25-14.39.12:192][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.25-14.39.12:192][398]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.25-14.39.12:192][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.25-14.39.12:192][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.25-14.39.12:192][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.25-14.39.12:193][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.25-14.39.12:193][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.25-14.39.12:193][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.25-14.39.12:195][398]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.25-14.39.12:218][398]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.25-14.39.12:218][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.25-14.39.12:219][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.25-14.39.12:219][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.25-14.39.12:219][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.03.25-14.39.12:219][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.03.25-14.39.12:220][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.03.25-14.39.12:221][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.03.25-14.39.12:221][398]LogInit: FAudioDevice initialized with ID 10.
+[2024.03.25-14.39.12:221][398]LogAudio: Display: Audio Device (ID: 10) registered with world 'ProceduralAnimTest'.
+[2024.03.25-14.39.12:221][398]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2024.03.25-14.39.12:224][398]LogLoad: Game class is 'GameModeBase'
+[2024.03.25-14.39.12:225][398]LogWorld: Bringing World /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest up for play (max tick rate 0) at 2024.03.25-09.39.12
+[2024.03.25-14.39.12:225][398]LogWorld: Bringing up level for play took: 0.000712
+[2024.03.25-14.39.12:226][398]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.03.25-14.39.12:226][398]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.03.25-14.39.12:226][398]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.03.25-14.39.12:230][398]LogStreaming: Display: FlushAsyncLoading(): 69 QueuedPackages, 0 AsyncPackages
+[2024.03.25-14.39.12:439][398]PIE: Server logged in
+[2024.03.25-14.39.12:439][398]PIE: Play in editor total start time 0.354 seconds.
+[2024.03.25-14.39.20:030][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-14.39.20:030][164]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-14.39.20:041][164]LogWorld: UWorld::CleanupWorld for ProceduralAnimTest, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-14.39.20:041][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-14.39.20:041][164]LogContentBundle: [ProceduralAnimTest(Standalone)] Deleting container.
+[2024.03.25-14.39.20:044][164]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.25-14.39.20:048][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-14.39.20:065][164]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-14.39.20:069][164]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2024.03.25-14.39.20:069][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.25-14.39.20:071][164]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.03.25-14.39.20:074][164]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-14.39.20:086][164]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.25-14.39.20:140][165]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 0 (Found bundle for host: 0x84388150f90 [serially])
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 6 (Closing connection)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F860B80-40BD-73E0-118C-C4945228B3BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 9 (  Trying 52.2.147.142:443...)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.2.147.142) port 443)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 34 (Closing connection)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: 000008443DB78700: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-14.40.20:035][ 31]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F860B80-40BD-73E0-118C-C4945228B3BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-14.41.10:558][545]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.41.10:607][545]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.03.25-14.41.10:694][546]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.41.10:740][546]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.03.25-14.41.11:069][569]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-14.41.11:234][569]LogSavePackage: Moving output files for package: /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig
+[2024.03.25-14.41.11:235][569]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRig50D76D5644A375563A886DB746FAB2AF.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Content/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.uasset'
+[2024.03.25-14.41.11:243][569]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 1.95 sec)
+[2024.03.25-14.41.11:262][569]AssetCheck: New page: Asset Save: SpiderWalkControlRig
+[2024.03.25-14.41.11:262][569]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig
+[2024.03.25-14.41.11:332][577]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-14.41.11:470][577]LogSavePackage: Moving output files for package: /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig
+[2024.03.25-14.41.11:470][577]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRig223A526440BF28CDFFA91BA6C7AFF81E.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Content/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.uasset'
+[2024.03.25-14.41.11:480][577]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 2.10 sec)
+[2024.03.25-14.41.11:498][577]AssetCheck: New page: Asset Save: SpiderWalkControlRig
+[2024.03.25-14.41.11:498][577]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig
+[2024.03.25-14.41.13:222][730]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.03.25-14.41.13:228][730]LogContentBundle: [ProceduralAnimTest(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.25-14.41.13:228][730]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' started...
+[2024.03.25-14.41.13:306][730]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' took 77 ms (total: 757 ms)
+[2024.03.25-14.41.13:306][730]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.25-14.41.13:306][730]PIE: New page: SIE session: ProceduralAnimTest (Mar 25, 2024, 4:41:13 AM)
+[2024.03.25-14.41.13:306][730]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-14.41.13:316][730]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009498s)
+[2024.03.25-14.41.13:316][730]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProceduralAnimTest.ProceduralAnimTest to /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest (0.009525s)
+[2024.03.25-14.41.13:332][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.25-14.41.13:335][730]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-14.41.13:335][730]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-14.41.13:336][730]LogAIModule: Creating AISystem for world ProceduralAnimTest
+[2024.03.25-14.41.13:336][730]LogWorldPartition: ULevel::OnLevelLoaded(ProceduralAnimTest)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.25-14.41.13:337][730]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.25-14.41.13:337][730]LogWorldPartition: UWorldPartition::Initialize : World = ProceduralAnimTest, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.25-14.41.13:337][730]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.25-14.41.13:339][730]LogContentBundle: [ProceduralAnimTest(Standalone)] Creating new contrainer.
+[2024.03.25-14.41.13:339][730]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 665 ms)
+[2024.03.25-14.41.13:339][730]LogPlayLevel: PIE: World Init took: (0.003605s)
+[2024.03.25-14.41.13:339][730]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.03.25-14.41.13:339][730]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.25-14.41.13:339][730]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.25-14.41.13:339][730]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.25-14.41.13:339][730]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.25-14.41.13:339][730]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.25-14.41.13:339][730]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.25-14.41.13:339][730]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.25-14.41.13:339][730]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.25-14.41.13:340][730]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.25-14.41.13:340][730]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.25-14.41.13:340][730]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.25-14.41.13:342][730]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.25-14.41.13:365][730]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.25-14.41.13:365][730]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.25-14.41.13:365][730]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.25-14.41.13:365][730]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.25-14.41.13:366][730]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.03.25-14.41.13:366][730]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.03.25-14.41.13:367][730]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.03.25-14.41.13:367][730]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.03.25-14.41.13:367][730]LogInit: FAudioDevice initialized with ID 11.
+[2024.03.25-14.41.13:367][730]LogAudio: Display: Audio Device (ID: 11) registered with world 'ProceduralAnimTest'.
+[2024.03.25-14.41.13:367][730]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.25-14.41.13:370][730]LogLoad: Game class is 'GameModeBase'
+[2024.03.25-14.41.13:371][730]LogWorld: Bringing World /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest up for play (max tick rate 0) at 2024.03.25-09.41.13
+[2024.03.25-14.41.13:371][730]LogWorld: Bringing up level for play took: 0.000742
+[2024.03.25-14.41.13:372][730]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2024.03.25-14.41.13:373][730]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.03.25-14.41.13:373][730]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.03.25-14.41.13:376][730]LogStreaming: Display: FlushAsyncLoading(): 69 QueuedPackages, 0 AsyncPackages
+[2024.03.25-14.41.13:589][730]PIE: Server logged in
+[2024.03.25-14.41.13:590][730]PIE: Play in editor total start time 0.362 seconds.
+[2024.03.25-14.41.21:759][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-14.41.21:759][568]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-14.41.21:769][568]LogWorld: UWorld::CleanupWorld for ProceduralAnimTest, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-14.41.21:769][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-14.41.21:769][568]LogContentBundle: [ProceduralAnimTest(Standalone)] Deleting container.
+[2024.03.25-14.41.21:772][568]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.25-14.41.21:778][568]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-14.41.21:794][568]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-14.41.21:801][568]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.25-14.41.21:801][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.25-14.41.21:802][568]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.25-14.41.21:806][568]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-14.41.21:819][568]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.03.25-14.41.21:879][569]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2024.03.25-14.41.48:652][288]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (9) out of bounds (count 8).'
+[2024.03.25-14.41.48:652][288]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (14) out of bounds (count 8).'
+[2024.03.25-14.41.48:652][288]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (19) out of bounds (count 8).'
+[2024.03.25-14.41.48:652][288]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (24) out of bounds (count 8).'
+[2024.03.25-14.41.48:652][288]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (29) out of bounds (count 8).'
+[2024.03.25-14.41.48:652][288]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (34) out of bounds (count 8).'
+[2024.03.25-14.41.48:652][288]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (39) out of bounds (count 8).'
+[2024.03.25-14.41.52:784][686]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (9) out of bounds (count 8).'
+[2024.03.25-14.41.52:784][686]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (14) out of bounds (count 8).'
+[2024.03.25-14.41.52:784][686]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (19) out of bounds (count 8).'
+[2024.03.25-14.41.52:784][686]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (24) out of bounds (count 8).'
+[2024.03.25-14.41.52:784][686]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (29) out of bounds (count 8).'
+[2024.03.25-14.41.52:784][686]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (34) out of bounds (count 8).'
+[2024.03.25-14.41.52:784][686]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (39) out of bounds (count 8).'
+[2024.03.25-14.41.56:633][ 34]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (9) out of bounds (count 8).'
+[2024.03.25-14.41.56:633][ 34]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (14) out of bounds (count 8).'
+[2024.03.25-14.41.56:633][ 34]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (19) out of bounds (count 8).'
+[2024.03.25-14.41.56:633][ 34]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (24) out of bounds (count 8).'
+[2024.03.25-14.41.56:633][ 34]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (29) out of bounds (count 8).'
+[2024.03.25-14.41.56:633][ 34]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (34) out of bounds (count 8).'
+[2024.03.25-14.41.56:633][ 34]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (39) out of bounds (count 8).'
+[2024.03.25-14.41.58:604][203]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.41.58:646][203]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.03.25-14.41.58:738][205]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.41.58:785][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.03.25-14.41.59:231][239]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.41.59:276][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.25-14.41.59:381][242]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.41.59:424][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.25-14.41.59:502][244]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.41.59:545][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.25-14.42.02:663][508]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-14.42.02:810][508]LogSavePackage: Moving output files for package: /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig
+[2024.03.25-14.42.02:810][508]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRig2DA7ECE64B21BF0AEB03039C83D32D62.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Content/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.uasset'
+[2024.03.25-14.42.02:819][508]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 2.25 sec)
+[2024.03.25-14.42.02:837][508]AssetCheck: New page: Asset Save: SpiderWalkControlRig
+[2024.03.25-14.42.02:837][508]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig
+[2024.03.25-14.42.03:981][619]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.03.25-14.42.03:987][619]LogContentBundle: [ProceduralAnimTest(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.25-14.42.03:987][619]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' started...
+[2024.03.25-14.42.04:063][619]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' took 75 ms (total: 832 ms)
+[2024.03.25-14.42.04:063][619]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.25-14.42.04:063][619]PIE: New page: SIE session: ProceduralAnimTest (Mar 25, 2024, 4:42:04 AM)
+[2024.03.25-14.42.04:063][619]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-14.42.04:073][619]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009185s)
+[2024.03.25-14.42.04:073][619]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProceduralAnimTest.ProceduralAnimTest to /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest (0.009210s)
+[2024.03.25-14.42.04:088][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.25-14.42.04:091][619]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-14.42.04:091][619]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-14.42.04:091][619]LogAIModule: Creating AISystem for world ProceduralAnimTest
+[2024.03.25-14.42.04:091][619]LogWorldPartition: ULevel::OnLevelLoaded(ProceduralAnimTest)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.25-14.42.04:091][619]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.25-14.42.04:091][619]LogWorldPartition: UWorldPartition::Initialize : World = ProceduralAnimTest, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.25-14.42.04:091][619]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.25-14.42.04:094][619]LogContentBundle: [ProceduralAnimTest(Standalone)] Creating new contrainer.
+[2024.03.25-14.42.04:094][619]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 667 ms)
+[2024.03.25-14.42.04:094][619]LogPlayLevel: PIE: World Init took: (0.003606s)
+[2024.03.25-14.42.04:094][619]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.03.25-14.42.04:094][619]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.25-14.42.04:094][619]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.25-14.42.04:094][619]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.25-14.42.04:094][619]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.25-14.42.04:094][619]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.25-14.42.04:094][619]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.25-14.42.04:094][619]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.25-14.42.04:094][619]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.25-14.42.04:095][619]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.25-14.42.04:095][619]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.25-14.42.04:095][619]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.25-14.42.04:096][619]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.25-14.42.04:121][619]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.25-14.42.04:121][619]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.25-14.42.04:121][619]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.25-14.42.04:121][619]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.25-14.42.04:121][619]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.03.25-14.42.04:122][619]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.03.25-14.42.04:123][619]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.03.25-14.42.04:123][619]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.03.25-14.42.04:123][619]LogInit: FAudioDevice initialized with ID 12.
+[2024.03.25-14.42.04:123][619]LogAudio: Display: Audio Device (ID: 12) registered with world 'ProceduralAnimTest'.
+[2024.03.25-14.42.04:123][619]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.25-14.42.04:126][619]LogLoad: Game class is 'GameModeBase'
+[2024.03.25-14.42.04:126][619]LogWorld: Bringing World /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest up for play (max tick rate 0) at 2024.03.25-09.42.04
+[2024.03.25-14.42.04:126][619]LogWorld: Bringing up level for play took: 0.000679
+[2024.03.25-14.42.04:128][619]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2024.03.25-14.42.04:128][619]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.03.25-14.42.04:128][619]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.03.25-14.42.04:131][619]LogStreaming: Display: FlushAsyncLoading(): 69 QueuedPackages, 0 AsyncPackages
+[2024.03.25-14.42.04:334][619]PIE: Server logged in
+[2024.03.25-14.42.04:336][619]PIE: Play in editor total start time 0.349 seconds.
+[2024.03.25-14.42.07:129][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-14.42.07:129][880]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-14.42.07:139][880]LogWorld: UWorld::CleanupWorld for ProceduralAnimTest, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-14.42.07:139][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-14.42.07:139][880]LogContentBundle: [ProceduralAnimTest(Standalone)] Deleting container.
+[2024.03.25-14.42.07:142][880]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.25-14.42.07:147][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-14.42.07:164][880]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-14.42.07:169][880]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.25-14.42.07:169][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.25-14.42.07:170][880]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.25-14.42.07:174][880]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-14.42.07:188][880]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.25-14.42.07:242][881]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.03.25-14.43.43:458][187]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.43.43:504][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.25-14.43.43:641][189]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.43.43:690][189]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.03.25-14.43.44:045][218]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.43.44:092][218]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.25-14.43.44:493][255]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-14.43.44:646][255]LogSavePackage: Moving output files for package: /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig
+[2024.03.25-14.43.44:646][255]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRig9F50F0394D6A0E93ED869DA307714947.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Content/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.uasset'
+[2024.03.25-14.43.44:653][255]LogFileHelpers: InternalPromptForCheckoutAndSave took 161 ms (total: 2.41 sec)
+[2024.03.25-14.43.44:673][255]AssetCheck: New page: Asset Save: SpiderWalkControlRig
+[2024.03.25-14.43.44:673][255]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig
+[2024.03.25-14.43.45:988][385]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.03.25-14.43.45:993][385]LogContentBundle: [ProceduralAnimTest(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.25-14.43.45:993][385]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' started...
+[2024.03.25-14.43.46:073][385]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' took 78 ms (total: 911 ms)
+[2024.03.25-14.43.46:073][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.25-14.43.46:073][385]PIE: New page: SIE session: ProceduralAnimTest (Mar 25, 2024, 4:43:46 AM)
+[2024.03.25-14.43.46:074][385]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-14.43.46:083][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009488s)
+[2024.03.25-14.43.46:083][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProceduralAnimTest.ProceduralAnimTest to /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest (0.009517s)
+[2024.03.25-14.43.46:098][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.03.25-14.43.46:101][385]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-14.43.46:101][385]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-14.43.46:101][385]LogAIModule: Creating AISystem for world ProceduralAnimTest
+[2024.03.25-14.43.46:102][385]LogWorldPartition: ULevel::OnLevelLoaded(ProceduralAnimTest)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.25-14.43.46:102][385]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.25-14.43.46:102][385]LogWorldPartition: UWorldPartition::Initialize : World = ProceduralAnimTest, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.25-14.43.46:102][385]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.25-14.43.46:104][385]LogContentBundle: [ProceduralAnimTest(Standalone)] Creating new contrainer.
+[2024.03.25-14.43.46:104][385]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 670 ms)
+[2024.03.25-14.43.46:104][385]LogPlayLevel: PIE: World Init took: (0.003821s)
+[2024.03.25-14.43.46:105][385]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.03.25-14.43.46:105][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.25-14.43.46:105][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.25-14.43.46:105][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.25-14.43.46:105][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.25-14.43.46:105][385]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.25-14.43.46:105][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.25-14.43.46:105][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.25-14.43.46:105][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.25-14.43.46:105][385]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.25-14.43.46:105][385]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.25-14.43.46:105][385]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.25-14.43.46:107][385]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.25-14.43.46:129][385]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.25-14.43.46:130][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.25-14.43.46:130][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.25-14.43.46:130][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.25-14.43.46:130][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.03.25-14.43.46:130][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.03.25-14.43.46:132][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.03.25-14.43.46:132][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.03.25-14.43.46:132][385]LogInit: FAudioDevice initialized with ID 13.
+[2024.03.25-14.43.46:132][385]LogAudio: Display: Audio Device (ID: 13) registered with world 'ProceduralAnimTest'.
+[2024.03.25-14.43.46:132][385]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.25-14.43.46:135][385]LogLoad: Game class is 'GameModeBase'
+[2024.03.25-14.43.46:136][385]LogWorld: Bringing World /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest up for play (max tick rate 0) at 2024.03.25-09.43.46
+[2024.03.25-14.43.46:136][385]LogWorld: Bringing up level for play took: 0.000740
+[2024.03.25-14.43.46:138][385]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.03.25-14.43.46:138][385]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.03.25-14.43.46:138][385]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.03.25-14.43.46:141][385]LogStreaming: Display: FlushAsyncLoading(): 69 QueuedPackages, 0 AsyncPackages
+[2024.03.25-14.43.46:354][385]PIE: Server logged in
+[2024.03.25-14.43.46:355][385]PIE: Play in editor total start time 0.361 seconds.
+[2024.03.25-14.43.52:617][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-14.43.52:617][976]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-14.43.52:628][976]LogWorld: UWorld::CleanupWorld for ProceduralAnimTest, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-14.43.52:628][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-14.43.52:628][976]LogContentBundle: [ProceduralAnimTest(Standalone)] Deleting container.
+[2024.03.25-14.43.52:630][976]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.25-14.43.52:636][976]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-14.43.52:654][976]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-14.43.52:658][976]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.25-14.43.52:658][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.25-14.43.52:660][976]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.25-14.43.52:664][976]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-14.43.52:678][976]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.03.25-14.43.52:735][977]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.03.25-14.44.34:310][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
