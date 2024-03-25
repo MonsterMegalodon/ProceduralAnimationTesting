@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\megal\\documents\\github\\proceduralanimationtesting\\proceduralanimtest1\\source\\proceduralanimtest1\\proceduralanimtest1.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\megal\\documents\\github\\proceduralanimationtesting\\proceduralanimtest1\\intermediate\\build\\win64\\x64\\proceduralanimtest1editor\\development\\engine\\sharedpch.engine.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\megal\\documents\\github\\proceduralanimationtesting\\proceduralanimtest1\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\proceduralanimtest1\\definitions.proceduralanimtest1.h",
+            "c:\\users\\megal\\documents\\github\\proceduralanimationtesting\\proceduralanimtest1\\source\\proceduralanimtest1\\proceduralanimtest1.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
