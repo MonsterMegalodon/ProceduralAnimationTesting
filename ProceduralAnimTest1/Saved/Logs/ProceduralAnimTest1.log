@@ -3868,3 +3868,116 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.25-03.32.46:993][ 19]LogHttp: Warning: 000009026EF74100: libcurl info message cache 34 (Closing connection)
 [2024.03.25-03.32.46:993][ 19]LogHttp: Warning: 000009026EF74100: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
 [2024.03.25-03.32.46:993][ 19]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0B96E4F1-41EB-4F66-FBE0-D8988C72DF70%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 0 (Found bundle for host: 0x90204960b10 [serially])
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 6 (Closing connection)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0B96E4F1-41EB-4F66-FBE0-D8988C72DF70%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 9 (  Trying 52.203.167.68:443...)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.203.167.68) port 443)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 34 (Closing connection)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: 000009026EF7F000: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-03.35.46:021][556]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0B96E4F1-41EB-4F66-FBE0-D8988C72DF70%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-03.41.28:868][312]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\megal\Downloads\CreepySpiderSkeletalMesh.fbx)
+[2024.03.25-03.41.28:888][312]LogFbx: Loading FBX Scene from C:\Users\megal\Downloads\CreepySpiderSkeletalMesh.fbx
+[2024.03.25-03.41.28:984][312]LogFbx: FBX Scene Loaded Succesfully
+[2024.03.25-03.41.30:156][312]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.03.25-03.41.30:174][312]LogFbx: Valid bind pose for Pose (Cube.001) - Cube
+[2024.03.25-03.41.30:182][312]LogMaterial: Display: Material /Game/MultiLegTutorial/SpiderTutorial/Material_001.Material_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2024.03.25-03.41.30:216][312]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\megal\Downloads
+[2024.03.25-03.41.30:228][312]LogFbx: Triangulating skeletal mesh Cube
+[2024.03.25-03.41.33:494][312]LogFbx: Bones digested - 28  Depth of hierarchy - 6
+[2024.03.25-03.41.38:259][312]LogSkeletalMesh: Section 0: Material=0, 292864 triangles
+[2024.03.25-03.41.38:545][312]LogSkeletalMesh: Building Skeletal Mesh CreepySpiderSkeletalMesh...
+[2024.03.25-03.41.38:565][312]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (CreepySpiderSkeletalMesh) ...
+[2024.03.25-03.41.43:225][312]LogSkeletalMesh: Built Skeletal Mesh [4.68s] /Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh.CreepySpiderSkeletalMesh
+[2024.03.25-03.41.43:377][312]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-03.41.43:377][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-03.41.43:389][312]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-03.41.43:389][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-03.41.43:420][312]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (CreepySpiderSkeletalMesh) ...
+[2024.03.25-03.41.43:534][312]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: ================================================
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: Total job queries 125, among them cache hits 4 (3.20%)
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: Tracking 61 distinct input hashes that result in 39 distinct outputs (63.93%)
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: RAM used: 1.48 MiB of 3.20 GiB budget. Usage: 0.05%
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: Shaders Compiled: 61
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: Jobs assigned 61, completed 61 (100%)
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: Average time worker was idle: 187.14 s
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 0.89 s
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: Job execution time: average 0.37 s, max 0.65 s
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: Job life time (pending + execution): average 0.62 s, max 1.10
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: Shader code size: average 41.123 KiB, min 4.465 KiB, max 74.191 KiB
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.85 s
+[2024.03.25-03.41.43:586][312]LogShaderCompilers: Display: Jobs were issued in 61 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display: Average processing rate: 12.57 jobs/sec
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display: Total thread time: 14.698 s
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display: Total thread preprocess time: 1.56 s
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display: Percentage time preprocessing: 10.61%
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display: Effective parallelization: 3.03 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    3 times, average 0.29 sec, max 0.31 sec, min 0.26 sec)
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   11 times, average 0.27 sec, max 0.33 sec, min 0.20 sec)
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   11 times, average 0.27 sec, max 0.42 sec, min 0.18 sec)
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 20.41% of total time (compiled   11 times, average 0.27 sec, max 0.33 sec, min 0.20 sec)
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.00% of total time (compiled   11 times, average 0.27 sec, max 0.42 sec, min 0.18 sec)
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display:                                                  FHitProxyVS - 5.87% of total time (compiled    3 times, average 0.29 sec, max 0.31 sec, min 0.26 sec)
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 5.11% of total time (compiled    3 times, average 0.25 sec, max 0.34 sec, min 0.20 sec)
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 4.08% of total time (compiled    2 times, average 0.30 sec, max 0.31 sec, min 0.29 sec)
+[2024.03.25-03.41.43:587][312]LogShaderCompilers: Display: ================================================
+[2024.03.25-03.41.46:676][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.03.25-03.41.46:677][554]LogFileHelpers: Editor autosave (incl. external actors) for '/Temp/Untitled_1' took 0.007
+[2024.03.25-03.41.46:677][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh] ([1] browsable assets)...
+[2024.03.25-03.41.46:709][554]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh.CreepySpiderSkeletalMesh]
+[2024.03.25-03.41.46:709][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh]
+[2024.03.25-03.41.47:002][554]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh_Auto2
+[2024.03.25-03.41.47:002][554]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/CreepySpiderSkeletalMesh_Auto205DEAF1E4C665D0A3C4BE8A1B010F76C.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/Autosaves/Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh_Auto2.uasset'
+[2024.03.25-03.41.47:003][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MultiLegTutorial/SpiderTutorial/Material_001] ([1] browsable assets)...
+[2024.03.25-03.41.47:036][554]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MultiLegTutorial/SpiderTutorial/Material_001.Material_001]
+[2024.03.25-03.41.47:036][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiLegTutorial/SpiderTutorial/Material_001]
+[2024.03.25-03.41.47:037][554]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MultiLegTutorial/SpiderTutorial/Material_001_Auto2
+[2024.03.25-03.41.47:037][554]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/Material_001_Auto296B67425429F3455FBC02EB806C9DCE4.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/Autosaves/Game/MultiLegTutorial/SpiderTutorial/Material_001_Auto2.uasset'
+[2024.03.25-03.41.47:038][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh_PhysicsAsset] ([1] browsable assets)...
+[2024.03.25-03.41.47:043][554]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh_PhysicsAsset.CreepySpiderSkeletalMesh_PhysicsAsset]
+[2024.03.25-03.41.47:043][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh_PhysicsAsset]
+[2024.03.25-03.41.47:045][554]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh_PhysicsAsset_Auto2
+[2024.03.25-03.41.47:045][554]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/CreepySpiderSkeletalMesh_Physics7305BA5E45EE988D476D0389A7AED3DB.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/Autosaves/Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh_PhysicsAsset_Auto2.uasset'
+[2024.03.25-03.41.47:046][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh_Skeleton] ([1] browsable assets)...
+[2024.03.25-03.41.47:052][554]OBJ SavePackage:     Rendered thumbnail for [Skeleton /Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh_Skeleton.CreepySpiderSkeletalMesh_Skeleton]
+[2024.03.25-03.41.47:052][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh_Skeleton]
+[2024.03.25-03.41.47:053][554]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh_Skeleton_Auto2
+[2024.03.25-03.41.47:053][554]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/CreepySpiderSkeletalMesh_Skeleto3F131F374FEA2BFA2BFC5399B04B584A.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/Autosaves/Game/MultiLegTutorial/SpiderTutorial/CreepySpiderSkeletalMesh_Skeleton_Auto2.uasset'
+[2024.03.25-03.41.47:054][554]LogFileHelpers: Auto-saving content packages took 0.377
