@@ -3180,3 +3180,455 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.25-10.14.45:936][412]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
 [2024.03.25-10.14.45:956][412]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
 [2024.03.25-10.14.46:014][413]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2024.03.25-10.16.36:338][392]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.16.36:371][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.03.25-10.16.37:851][509]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.16.37:889][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.03.25-10.16.44:443][ 90]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.03.25-10.16.44:449][ 90]LogContentBundle: [ProceduralAnimTest(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.25-10.16.44:449][ 90]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' started...
+[2024.03.25-10.16.44:525][ 90]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' took 76 ms (total: 799 ms)
+[2024.03.25-10.16.44:525][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.25-10.16.44:525][ 90]PIE: New page: SIE session: ProceduralAnimTest (Mar 25, 2024, 12:16:44 AM)
+[2024.03.25-10.16.44:525][ 90]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-10.16.44:535][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009168s)
+[2024.03.25-10.16.44:535][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProceduralAnimTest.ProceduralAnimTest to /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest (0.009191s)
+[2024.03.25-10.16.44:548][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.03.25-10.16.44:551][ 90]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-10.16.44:551][ 90]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-10.16.44:551][ 90]LogAIModule: Creating AISystem for world ProceduralAnimTest
+[2024.03.25-10.16.44:552][ 90]LogWorldPartition: ULevel::OnLevelLoaded(ProceduralAnimTest)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.25-10.16.44:552][ 90]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.25-10.16.44:552][ 90]LogWorldPartition: UWorldPartition::Initialize : World = ProceduralAnimTest, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.25-10.16.44:552][ 90]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.25-10.16.44:554][ 90]LogContentBundle: [ProceduralAnimTest(Standalone)] Creating new contrainer.
+[2024.03.25-10.16.44:554][ 90]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 425 ms)
+[2024.03.25-10.16.44:554][ 90]LogPlayLevel: PIE: World Init took: (0.003531s)
+[2024.03.25-10.16.44:554][ 90]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.03.25-10.16.44:554][ 90]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.25-10.16.44:554][ 90]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.25-10.16.44:554][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.25-10.16.44:554][ 90]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.25-10.16.44:554][ 90]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.25-10.16.44:554][ 90]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.25-10.16.44:554][ 90]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.25-10.16.44:554][ 90]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.25-10.16.44:554][ 90]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.25-10.16.44:554][ 90]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.25-10.16.44:554][ 90]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.25-10.16.44:556][ 90]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.25-10.16.44:580][ 90]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.25-10.16.44:580][ 90]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.25-10.16.44:580][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.25-10.16.44:580][ 90]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.25-10.16.44:581][ 90]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.03.25-10.16.44:581][ 90]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.03.25-10.16.44:583][ 90]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.03.25-10.16.44:583][ 90]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.03.25-10.16.44:583][ 90]LogInit: FAudioDevice initialized with ID 11.
+[2024.03.25-10.16.44:583][ 90]LogAudio: Display: Audio Device (ID: 11) registered with world 'ProceduralAnimTest'.
+[2024.03.25-10.16.44:583][ 90]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.25-10.16.44:585][ 90]LogLoad: Game class is 'GameModeBase'
+[2024.03.25-10.16.44:586][ 90]LogWorld: Bringing World /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest up for play (max tick rate 0) at 2024.03.25-05.16.44
+[2024.03.25-10.16.44:586][ 90]LogWorld: Bringing up level for play took: 0.000684
+[2024.03.25-10.16.44:588][ 90]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.03.25-10.16.44:588][ 90]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.03.25-10.16.44:588][ 90]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.03.25-10.16.44:592][ 90]LogStreaming: Display: FlushAsyncLoading(): 69 QueuedPackages, 0 AsyncPackages
+[2024.03.25-10.16.44:795][ 90]PIE: Server logged in
+[2024.03.25-10.16.44:796][ 90]PIE: Play in editor total start time 0.347 seconds.
+[2024.03.25-10.17.03:716][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-10.17.03:717][ 11]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-10.17.03:726][ 11]LogWorld: UWorld::CleanupWorld for ProceduralAnimTest, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-10.17.03:726][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-10.17.03:726][ 11]LogContentBundle: [ProceduralAnimTest(Standalone)] Deleting container.
+[2024.03.25-10.17.03:729][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.25-10.17.03:734][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-10.17.03:754][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-10.17.03:756][ 11]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2024.03.25-10.17.03:756][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.25-10.17.03:757][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.03.25-10.17.03:761][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-10.17.03:775][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.03.25-10.17.03:831][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.03.25-10.17.25:582][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.03.25-10.17.26:344][977]LogSlate: Window 'Save Content' being destroyed
+[2024.03.25-10.17.26:352][977]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-10.17.26:452][977]LogSavePackage: Moving output files for package: /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig
+[2024.03.25-10.17.26:453][977]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRigECEF39B74A655ADFB0832781BFDA0E39.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Content/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.uasset'
+[2024.03.25-10.17.26:460][977]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 14.3 sec)
+[2024.03.25-10.17.26:462][977]AssetCheck: New page: Asset Save: SpiderWalkControlRig
+[2024.03.25-10.17.26:462][977]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig
+[2024.03.25-10.17.41:127][308]LogEditorTransaction: Undo Move Nodes
+[2024.03.25-10.17.41:341][308]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.17.42:086][364]LogEditorTransaction: Undo Selected multiple nodes.
+[2024.03.25-10.17.42:297][364]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.17.43:286][472]LogEditorTransaction: Undo Deselect all nodes.
+[2024.03.25-10.17.43:496][472]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.17.45:371][688]LogEditorTransaction: Redo Deselect all nodes.
+[2024.03.25-10.17.45:581][688]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.17.56:564][941]LogEditorTransaction: Undo Move Nodes
+[2024.03.25-10.17.56:777][941]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.17.58:191][ 78]LogEditorTransaction: Undo Selected multiple nodes.
+[2024.03.25-10.17.58:405][ 78]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.17.59:266][173]LogEditorTransaction: Undo Selected multiple nodes.
+[2024.03.25-10.17.59:478][173]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.18.01:447][379]LogEditorTransaction: Undo Deselect all nodes.
+[2024.03.25-10.18.01:656][379]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.18.02:030][390]LogEditorTransaction: Undo Move Nodes
+[2024.03.25-10.18.02:237][390]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.18.03:012][469]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-10.18.03:012][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-10.18.03:022][469]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-10.18.03:022][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-10.18.06:204][715]LogAssetEditorSubsystem: Opening Asset editor for ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig
+[2024.03.25-10.18.06:205][715]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-10.18.06:205][715]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-10.18.06:246][715]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-10.18.06:246][715]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-10.18.06:255][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.18.06:255][715]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_13:PersistentLevel.AnimationEditorPreviewActor_0.ControlRigSkeletalMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.18.06:264][715]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.18.06:335][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.03.25-10.18.06:614][715]LogViewport: Scene viewport resized to 561x568, mode Windowed.
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 0 (Found bundle for host: 0x7e896960ab0 [serially])
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 6 (Closing connection)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1817253B-43ED-0EC8-ACC4-FF9EEA138179%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 9 (  Trying 34.194.194.155:443...)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.194.194.155) port 443)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 34 (Closing connection)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: 000007E8EEDB2800: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-10.18.38:931][792]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1817253B-43ED-0EC8-ACC4-FF9EEA138179%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-10.18.53:194][194]LogEditorTransaction: Undo Delete selected nodes
+[2024.03.25-10.18.53:411][194]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.20.21:703][933]LogEditorTransaction: Undo Selected multiple nodes.
+[2024.03.25-10.20.21:914][933]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.20.26:191][301]LogEditorTransaction: Undo Selected multiple nodes.
+[2024.03.25-10.20.26:401][301]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.20.28:418][451]LogEditorTransaction: Undo Selected node 'EdGraphNode_Comment_4'.
+[2024.03.25-10.20.28:626][451]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-10.21.38:929][209]LogHttp: Warning: 000007E94B8F6900: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-10.21.38:929][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 0 (Found bundle for host: 0x7e8969609f0 [serially])
+[2024.03.25-10.21.38:929][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-10.21.38:929][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-10.21.38:929][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-10.21.38:929][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-10.21.38:929][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 6 (Closing connection)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1817253B-43ED-0EC8-ACC4-FF9EEA138179%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 9 (  Trying 34.206.87.63:443...)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.206.87.63) port 443)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 34 (Closing connection)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: 000007E94B8F6900: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-10.21.38:930][209]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1817253B-43ED-0EC8-ACC4-FF9EEA138179%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-10.23.09:501][725]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.23.09:539][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.03.25-10.23.10:081][775]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.23.10:117][775]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.03.25-10.23.11:213][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.25-10.23.12:126][883]LogSlate: Window 'Save Content' being destroyed
+[2024.03.25-10.23.12:134][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-10.23.12:250][883]LogSavePackage: Moving output files for package: /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig
+[2024.03.25-10.23.12:250][883]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRigEF86C31E447992244305B99B0BBDDA07.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Content/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.uasset'
+[2024.03.25-10.23.12:259][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 14.4 sec)
+[2024.03.25-10.23.12:261][883]AssetCheck: New page: Asset Save: SpiderWalkControlRig
+[2024.03.25-10.23.12:261][883]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig
+[2024.03.25-10.25.14:214][169]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.25.14:250][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.03.25-10.25.15:579][308]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.25.15:614][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 0 (Found bundle for host: 0x7e896960090 [serially])
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 6 (Closing connection)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1817253B-43ED-0EC8-ACC4-FF9EEA138179%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 9 (  Trying 52.205.52.82:443...)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (52.205.52.82) port 443)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 34 (Closing connection)
+[2024.03.25-10.25.38:933][943]LogHttp: Warning: 000007E9221F1E00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-10.25.38:934][943]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1817253B-43ED-0EC8-ACC4-FF9EEA138179%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-10.27.42:496][573]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.27.42:533][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.03.25-10.27.42:631][578]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.27.42:666][578]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.25-10.28.45:175][815]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.28.45:212][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.03.25-10.29.39:480][292]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.29.39:518][292]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.03.25-10.29.43:720][480]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.03.25-10.29.43:722][480]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ProceduralAnimTest' took 0.017
+[2024.03.25-10.29.43:723][480]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig] ([2] browsable assets)...
+[2024.03.25-10.29.43:772][480]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig]
+[2024.03.25-10.29.43:772][480]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig]
+[2024.03.25-10.29.43:802][480]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig_Auto2
+[2024.03.25-10.29.43:803][480]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRig_Auto2DE37CEBF428C9C797CC142B4B3DDD5C2.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/Autosaves/Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig_Auto2.uasset'
+[2024.03.25-10.29.43:804][480]LogFileHelpers: Auto-saving content packages took 0.081
+[2024.03.25-10.30.26:368][804]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.30.26:405][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.25-10.31.31:290][ 36]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.31.31:326][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.03.25-10.31.32:058][112]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.31.32:092][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.25-10.31.38:923][822]LogHttp: Warning: 000007E948993200: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 0 (Found bundle for host: 0x7e896960ea0 [serially])
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 6 (Closing connection)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1817253B-43ED-0EC8-ACC4-FF9EEA138179%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 9 (  Trying 44.220.100.223:443...)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (44.220.100.223) port 443)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 34 (Closing connection)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: 000007E948993200: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-10.31.38:924][822]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1817253B-43ED-0EC8-ACC4-FF9EEA138179%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-10.31.52:896][891]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.31.52:931][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.03.25-10.31.53:569][938]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-10.31.53:609][938]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.03.25-10.31.54:327][  1]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-10.31.54:429][  1]LogSavePackage: Moving output files for package: /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig
+[2024.03.25-10.31.54:430][  1]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRigAC8FCD104BCDDA58555782903EF05918.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Content/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.uasset'
+[2024.03.25-10.31.54:438][  1]LogFileHelpers: InternalPromptForCheckoutAndSave took 110 ms (total: 14.5 sec)
+[2024.03.25-10.31.54:455][  1]AssetCheck: New page: Asset Save: SpiderWalkControlRig
+[2024.03.25-10.31.54:455][  1]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig
+[2024.03.25-10.31.58:029][328]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.03.25-10.31.58:033][328]LogContentBundle: [ProceduralAnimTest(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.25-10.31.58:033][328]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' started...
+[2024.03.25-10.31.58:109][328]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' took 75 ms (total: 875 ms)
+[2024.03.25-10.31.58:109][328]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.25-10.31.58:109][328]PIE: New page: SIE session: ProceduralAnimTest (Mar 25, 2024, 12:31:58 AM)
+[2024.03.25-10.31.58:109][328]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-10.31.58:119][328]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009543s)
+[2024.03.25-10.31.58:119][328]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProceduralAnimTest.ProceduralAnimTest to /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest (0.009568s)
+[2024.03.25-10.31.58:134][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.25-10.31.58:136][328]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-10.31.58:136][328]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-10.31.58:137][328]LogAIModule: Creating AISystem for world ProceduralAnimTest
+[2024.03.25-10.31.58:137][328]LogWorldPartition: ULevel::OnLevelLoaded(ProceduralAnimTest)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.25-10.31.58:137][328]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.25-10.31.58:137][328]LogWorldPartition: UWorldPartition::Initialize : World = ProceduralAnimTest, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.25-10.31.58:137][328]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.25-10.31.58:140][328]LogContentBundle: [ProceduralAnimTest(Standalone)] Creating new contrainer.
+[2024.03.25-10.31.58:140][328]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 428 ms)
+[2024.03.25-10.31.58:140][328]LogPlayLevel: PIE: World Init took: (0.003706s)
+[2024.03.25-10.31.58:140][328]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.03.25-10.31.58:140][328]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.25-10.31.58:140][328]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.25-10.31.58:140][328]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.25-10.31.58:140][328]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.25-10.31.58:140][328]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.25-10.31.58:140][328]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.25-10.31.58:140][328]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.25-10.31.58:140][328]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.25-10.31.58:140][328]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.25-10.31.58:140][328]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.25-10.31.58:140][328]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.25-10.31.58:142][328]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.25-10.31.58:165][328]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.25-10.31.58:166][328]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.25-10.31.58:166][328]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.25-10.31.58:166][328]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.25-10.31.58:166][328]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.03.25-10.31.58:166][328]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.03.25-10.31.58:168][328]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.03.25-10.31.58:168][328]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.03.25-10.31.58:168][328]LogInit: FAudioDevice initialized with ID 12.
+[2024.03.25-10.31.58:168][328]LogAudio: Display: Audio Device (ID: 12) registered with world 'ProceduralAnimTest'.
+[2024.03.25-10.31.58:168][328]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.25-10.31.58:171][328]LogLoad: Game class is 'GameModeBase'
+[2024.03.25-10.31.58:172][328]LogWorld: Bringing World /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest up for play (max tick rate 0) at 2024.03.25-05.31.58
+[2024.03.25-10.31.58:172][328]LogWorld: Bringing up level for play took: 0.000766
+[2024.03.25-10.31.58:174][328]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.03.25-10.31.58:174][328]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.03.25-10.31.58:174][328]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.03.25-10.31.58:177][328]LogStreaming: Display: FlushAsyncLoading(): 69 QueuedPackages, 0 AsyncPackages
+[2024.03.25-10.31.58:381][328]PIE: Server logged in
+[2024.03.25-10.31.58:382][328]PIE: Play in editor total start time 0.349 seconds.
+[2024.03.25-10.32.36:467][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-10.32.36:467][359]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-10.32.36:477][359]LogWorld: UWorld::CleanupWorld for ProceduralAnimTest, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-10.32.36:477][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-10.32.36:477][359]LogContentBundle: [ProceduralAnimTest(Standalone)] Deleting container.
+[2024.03.25-10.32.36:479][359]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.25-10.32.36:485][359]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-10.32.36:502][359]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-10.32.36:504][359]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2024.03.25-10.32.36:504][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.25-10.32.36:506][359]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.03.25-10.32.36:510][359]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-10.32.36:524][359]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.03.25-10.32.36:581][360]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.03.25-10.32.54:822][565]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.03.25-10.32.54:828][565]LogContentBundle: [ProceduralAnimTest(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.25-10.32.54:828][565]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' started...
+[2024.03.25-10.32.54:909][565]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' took 81 ms (total: 956 ms)
+[2024.03.25-10.32.54:909][565]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.25-10.32.54:909][565]PIE: New page: SIE session: ProceduralAnimTest (Mar 25, 2024, 12:32:54 AM)
+[2024.03.25-10.32.54:909][565]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-10.32.54:923][565]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013190s)
+[2024.03.25-10.32.54:923][565]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProceduralAnimTest.ProceduralAnimTest to /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest (0.013218s)
+[2024.03.25-10.32.54:936][565]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.03.25-10.32.54:940][565]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-10.32.54:940][565]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-10.32.54:941][565]LogAIModule: Creating AISystem for world ProceduralAnimTest
+[2024.03.25-10.32.54:941][565]LogWorldPartition: ULevel::OnLevelLoaded(ProceduralAnimTest)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.25-10.32.54:941][565]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.25-10.32.54:941][565]LogWorldPartition: UWorldPartition::Initialize : World = ProceduralAnimTest, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.25-10.32.54:941][565]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.25-10.32.54:944][565]LogContentBundle: [ProceduralAnimTest(Standalone)] Creating new contrainer.
+[2024.03.25-10.32.54:944][565]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 430 ms)
+[2024.03.25-10.32.54:944][565]LogPlayLevel: PIE: World Init took: (0.003763s)
+[2024.03.25-10.32.54:944][565]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.03.25-10.32.54:944][565]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.25-10.32.54:944][565]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.25-10.32.54:944][565]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.25-10.32.54:944][565]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.25-10.32.54:944][565]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.25-10.32.54:944][565]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.25-10.32.54:944][565]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.25-10.32.54:944][565]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.25-10.32.54:944][565]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.25-10.32.54:944][565]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.25-10.32.54:944][565]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.25-10.32.54:947][565]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.25-10.32.54:972][565]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.25-10.32.54:972][565]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.25-10.32.54:972][565]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.25-10.32.54:972][565]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.25-10.32.54:973][565]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.03.25-10.32.54:973][565]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.03.25-10.32.54:974][565]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.03.25-10.32.54:974][565]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.03.25-10.32.54:974][565]LogInit: FAudioDevice initialized with ID 13.
+[2024.03.25-10.32.54:974][565]LogAudio: Display: Audio Device (ID: 13) registered with world 'ProceduralAnimTest'.
+[2024.03.25-10.32.54:974][565]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.25-10.32.54:978][565]LogLoad: Game class is 'GameModeBase'
+[2024.03.25-10.32.54:978][565]LogWorld: Bringing World /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest up for play (max tick rate 0) at 2024.03.25-05.32.54
+[2024.03.25-10.32.54:979][565]LogWorld: Bringing up level for play took: 0.000766
+[2024.03.25-10.32.54:980][565]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.03.25-10.32.54:981][565]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.03.25-10.32.54:981][565]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.03.25-10.32.54:994][565]LogStreaming: Display: FlushAsyncLoading(): 56 QueuedPackages, 0 AsyncPackages
+[2024.03.25-10.32.55:190][565]PIE: Server logged in
+[2024.03.25-10.32.55:191][565]PIE: Play in editor total start time 0.363 seconds.
+[2024.03.25-10.33.05:426][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-10.33.05:427][392]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-10.33.05:437][392]LogWorld: UWorld::CleanupWorld for ProceduralAnimTest, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-10.33.05:437][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-10.33.05:437][392]LogContentBundle: [ProceduralAnimTest(Standalone)] Deleting container.
+[2024.03.25-10.33.05:440][392]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.25-10.33.05:445][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-10.33.05:462][392]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-10.33.05:462][392]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.03.25-10.33.05:462][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.25-10.33.05:464][392]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.03.25-10.33.05:482][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.25-10.33.05:543][393]LogPlayLevel: Display: Destroying online subsystem :Context_26
