@@ -2368,3 +2368,416 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.25-14.20.18:244][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
 [2024.03.25-14.20.18:321][ 92]BlueprintLog: New page: Compile SpiderWalkControlRig
 [2024.03.25-14.20.18:362][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.25-14.20.53:300][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.25-14.20.53:304][258]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ProceduralAnimTest/3/RP/4C1OUBFUXE4T381AQ7XI00_Auto1
+[2024.03.25-14.20.53:304][258]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/4C1OUBFUXE4T381AQ7XI00_Auto1E5A29AF74EF89031092E218E773333A3.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/Autosaves/Game/__ExternalActors__/ProceduralAnimTest/3/RP/4C1OUBFUXE4T381AQ7XI00_Auto1.uasset'
+[2024.03.25-14.20.53:305][258]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ProceduralAnimTest' took 0.019
+[2024.03.25-14.20.53:305][258]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.019
+[2024.03.25-14.20.53:305][258]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig] ([2] browsable assets)...
+[2024.03.25-14.20.53:314][258]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig]
+[2024.03.25-14.20.53:314][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig]
+[2024.03.25-14.20.53:416][258]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig_Auto1
+[2024.03.25-14.20.53:417][258]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRig_Auto130E912784E7E665BB33EA0BE032EF91D.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/Autosaves/Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig_Auto1.uasset'
+[2024.03.25-14.20.53:418][258]LogFileHelpers: Auto-saving content packages took 0.113
+[2024.03.25-14.21.01:047][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.03.25-14.21.01:053][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-14.21.01:093][452]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ProceduralAnimTest/3/RP/4C1OUBFUXE4T381AQ7XI00
+[2024.03.25-14.21.01:094][452]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/4C1OUBFUXE4T381AQ7XI00AB573B474850262F41B04B8DCAA4094F.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Content/__ExternalActors__/ProceduralAnimTest/3/RP/4C1OUBFUXE4T381AQ7XI00.uasset'
+[2024.03.25-14.21.01:182][452]LogSavePackage: Moving output files for package: /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig
+[2024.03.25-14.21.01:182][452]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRigBD18AB4643BB0DF71E40ACBAE55DA3F2.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Content/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.uasset'
+[2024.03.25-14.21.01:191][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 1.17 sec)
+[2024.03.25-14.21.01:196][452]AssetCheck: New page: Asset Save: multiple assets
+[2024.03.25-14.21.01:196][452]LogContentValidation: Display: Validating /Script/Engine.SkeletalMeshActor /Game/ProceduralAnimTest.ProceduralAnimTest:PersistentLevel.SkeletalMeshActor_UAID_106838D82F42B0E501_1157119959
+[2024.03.25-14.21.01:196][452]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig
+[2024.03.25-14.21.02:288][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.03.25-14.21.04:156][715]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.03.25-14.21.06:284][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.03.25-14.21.56:803][246]LogViewport: Scene viewport resized to 372x162, mode Windowed.
+[2024.03.25-14.21.58:642][350]LogViewport: Scene viewport resized to 561x270, mode Windowed.
+[2024.03.25-14.24.11:561][228]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.24.11:603][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.03.25-14.24.11:698][231]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.24.11:740][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.03.25-14.24.11:835][236]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.24.11:877][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.03.25-14.24.31:157][979]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.24.31:205][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.03.25-14.24.31:317][982]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.24.31:359][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.03.25-14.24.31:865][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-14.24.32:035][ 34]LogSavePackage: Moving output files for package: /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig
+[2024.03.25-14.24.32:036][ 34]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRig6D4A6AC4420BD940173365BC803A5EE4.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Content/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.uasset'
+[2024.03.25-14.24.32:044][ 34]LogFileHelpers: InternalPromptForCheckoutAndSave took 177 ms (total: 1.35 sec)
+[2024.03.25-14.24.32:062][ 34]AssetCheck: New page: Asset Save: SpiderWalkControlRig
+[2024.03.25-14.24.32:062][ 34]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig
+[2024.03.25-14.24.33:416][165]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.03.25-14.24.33:422][165]LogContentBundle: [ProceduralAnimTest(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.03.25-14.24.33:422][165]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' started...
+[2024.03.25-14.24.33:498][165]LogWorldPartition: Display: GenerateStreaming for 'ProceduralAnimTest' took 76 ms (total: 603 ms)
+[2024.03.25-14.24.33:499][165]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.03.25-14.24.33:499][165]PIE: New page: SIE session: ProceduralAnimTest (Mar 25, 2024, 4:24:33 AM)
+[2024.03.25-14.24.33:499][165]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-14.24.33:508][165]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009351s)
+[2024.03.25-14.24.33:508][165]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProceduralAnimTest.ProceduralAnimTest to /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest (0.009377s)
+[2024.03.25-14.24.33:522][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2024.03.25-14.24.33:524][165]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.03.25-14.24.33:524][165]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.25-14.24.33:525][165]LogAIModule: Creating AISystem for world ProceduralAnimTest
+[2024.03.25-14.24.33:525][165]LogWorldPartition: ULevel::OnLevelLoaded(ProceduralAnimTest)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.03.25-14.24.33:525][165]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.03.25-14.24.33:525][165]LogWorldPartition: UWorldPartition::Initialize : World = ProceduralAnimTest, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.03.25-14.24.33:525][165]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.03.25-14.24.33:527][165]LogContentBundle: [ProceduralAnimTest(Standalone)] Creating new contrainer.
+[2024.03.25-14.24.33:527][165]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 659 ms)
+[2024.03.25-14.24.33:528][165]LogPlayLevel: PIE: World Init took: (0.003575s)
+[2024.03.25-14.24.33:528][165]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.03.25-14.24.33:528][165]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.03.25-14.24.33:528][165]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.03.25-14.24.33:528][165]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.03.25-14.24.33:528][165]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.03.25-14.24.33:528][165]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.03.25-14.24.33:528][165]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.03.25-14.24.33:528][165]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.03.25-14.24.33:528][165]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.03.25-14.24.33:528][165]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.03.25-14.24.33:528][165]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.03.25-14.24.33:528][165]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.03.25-14.24.33:530][165]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.03.25-14.24.33:553][165]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.03.25-14.24.33:554][165]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.03.25-14.24.33:554][165]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.03.25-14.24.33:554][165]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.03.25-14.24.33:554][165]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.03.25-14.24.33:554][165]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.03.25-14.24.33:555][165]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.03.25-14.24.33:555][165]LogInit: FAudioDevice initialized with ID 9.
+[2024.03.25-14.24.33:555][165]LogAudio: Display: Audio Device (ID: 9) registered with world 'ProceduralAnimTest'.
+[2024.03.25-14.24.33:555][165]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.03.25-14.24.33:555][165]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.03.25-14.24.33:559][165]LogLoad: Game class is 'GameModeBase'
+[2024.03.25-14.24.33:560][165]LogWorld: Bringing World /Game/UEDPIE_0_ProceduralAnimTest.ProceduralAnimTest up for play (max tick rate 0) at 2024.03.25-09.24.33
+[2024.03.25-14.24.33:560][165]LogWorld: Bringing up level for play took: 0.000755
+[2024.03.25-14.24.33:562][165]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2024.03.25-14.24.33:563][165]LogWorldPartition: UWorldPartitionStreamingPolicy: CellsToActivate(45), CellsToLoad(0), CellsToUnload(0)
+[2024.03.25-14.24.33:563][165]LogWorldPartition: UWorldPartitionStreamingPolicy: Sources[0] = X=-200.000 Y=0.000 Z=92.000,P=0.000000 Y=180.000000 R=-0.000000
+[2024.03.25-14.24.33:566][165]LogStreaming: Display: FlushAsyncLoading(): 69 QueuedPackages, 0 AsyncPackages
+[2024.03.25-14.24.33:773][165]PIE: Server logged in
+[2024.03.25-14.24.33:774][165]PIE: Play in editor total start time 0.353 seconds.
+[2024.03.25-14.24.37:048][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-14.24.37:048][462]LogWorld: BeginTearingDown for /Game/UEDPIE_0_ProceduralAnimTest
+[2024.03.25-14.24.37:058][462]LogWorld: UWorld::CleanupWorld for ProceduralAnimTest, bSessionEnded=true, bCleanupResources=true
+[2024.03.25-14.24.37:058][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-14.24.37:058][462]LogContentBundle: [ProceduralAnimTest(Standalone)] Deleting container.
+[2024.03.25-14.24.37:061][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.03.25-14.24.37:067][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.25-14.24.37:085][462]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.03.25-14.24.37:089][462]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.03.25-14.24.37:089][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.03.25-14.24.37:091][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.03.25-14.24.37:094][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.03.25-14.24.37:107][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.03.25-14.24.37:161][463]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2024.03.25-14.24.59:990][997]LogEditorTransaction: Undo Add Link
+[2024.03.25-14.25.00:217][997]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.25.00:843][ 39]LogEditorTransaction: Undo Deselect all nodes.
+[2024.03.25-14.25.01:055][ 39]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.25.01:931][136]LogEditorTransaction: Undo Set Pin Default Value
+[2024.03.25-14.25.02:154][136]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.25.03:850][330]LogEditorTransaction: Undo Move Nodes
+[2024.03.25-14.25.04:064][330]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.25.05:386][457]LogEditorTransaction: Undo Selected node 'Remap'.
+[2024.03.25-14.25.05:599][457]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.26.30:099][ 37]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (0) out of bounds (count 0).'
+[2024.03.25-14.26.30:099][ 37]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (1) out of bounds (count 0).'
+[2024.03.25-14.26.30:099][ 37]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (2) out of bounds (count 0).'
+[2024.03.25-14.26.30:099][ 37]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (3) out of bounds (count 0).'
+[2024.03.25-14.26.30:099][ 37]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (4) out of bounds (count 0).'
+[2024.03.25-14.26.30:099][ 37]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (5) out of bounds (count 0).'
+[2024.03.25-14.26.30:099][ 37]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (6) out of bounds (count 0).'
+[2024.03.25-14.26.30:099][ 37]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (7) out of bounds (count 0).'
+[2024.03.25-14.26.31:164][153]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (0) out of bounds (count 0).'
+[2024.03.25-14.26.31:164][153]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (1) out of bounds (count 0).'
+[2024.03.25-14.26.31:164][153]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (2) out of bounds (count 0).'
+[2024.03.25-14.26.31:164][153]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (3) out of bounds (count 0).'
+[2024.03.25-14.26.31:164][153]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (4) out of bounds (count 0).'
+[2024.03.25-14.26.31:164][153]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (5) out of bounds (count 0).'
+[2024.03.25-14.26.31:164][153]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (6) out of bounds (count 0).'
+[2024.03.25-14.26.31:164][153]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (7) out of bounds (count 0).'
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 0 (Found bundle for host: 0x84388150600 [serially])
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 6 (Closing connection)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F860B80-40BD-73E0-118C-C4945228B3BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 9 (  Trying 34.199.69.120:443...)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (34.199.69.120) port 443)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 34 (Closing connection)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: 0000084440350500: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-14.27.20:096][418]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F860B80-40BD-73E0-118C-C4945228B3BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-14.28.00:795][ 74]LogEditorTransaction: Undo Set Pin Default Value
+[2024.03.25-14.28.01:020][ 74]LogRigVM: Error: Array Index (0) out of bounds (count 0).
+[2024.03.25-14.28.01:020][ 74]LogRigVM: Error: Array Index (1) out of bounds (count 0).
+[2024.03.25-14.28.01:020][ 74]LogRigVM: Error: Array Index (2) out of bounds (count 0).
+[2024.03.25-14.28.01:020][ 74]LogRigVM: Error: Array Index (3) out of bounds (count 0).
+[2024.03.25-14.28.01:020][ 74]LogRigVM: Error: Array Index (4) out of bounds (count 0).
+[2024.03.25-14.28.01:020][ 74]LogRigVM: Error: Array Index (5) out of bounds (count 0).
+[2024.03.25-14.28.01:020][ 74]LogRigVM: Error: Array Index (6) out of bounds (count 0).
+[2024.03.25-14.28.01:020][ 74]LogRigVM: Error: Array Index (7) out of bounds (count 0).
+[2024.03.25-14.28.01:020][ 74]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.28.01:174][ 76]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (0) out of bounds (count 0).'
+[2024.03.25-14.28.01:174][ 76]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (1) out of bounds (count 0).'
+[2024.03.25-14.28.01:174][ 76]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (2) out of bounds (count 0).'
+[2024.03.25-14.28.01:174][ 76]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (3) out of bounds (count 0).'
+[2024.03.25-14.28.01:174][ 76]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (4) out of bounds (count 0).'
+[2024.03.25-14.28.01:174][ 76]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (5) out of bounds (count 0).'
+[2024.03.25-14.28.01:174][ 76]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (6) out of bounds (count 0).'
+[2024.03.25-14.28.01:174][ 76]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (7) out of bounds (count 0).'
+[2024.03.25-14.28.01:803][127]LogEditorTransaction: Undo Set Pin Default Value
+[2024.03.25-14.28.02:024][127]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.28.02:116][129]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (0) out of bounds (count 0).'
+[2024.03.25-14.28.02:116][129]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (1) out of bounds (count 0).'
+[2024.03.25-14.28.02:116][129]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (2) out of bounds (count 0).'
+[2024.03.25-14.28.02:116][129]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (3) out of bounds (count 0).'
+[2024.03.25-14.28.02:116][129]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (4) out of bounds (count 0).'
+[2024.03.25-14.28.02:116][129]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (5) out of bounds (count 0).'
+[2024.03.25-14.28.02:116][129]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (6) out of bounds (count 0).'
+[2024.03.25-14.28.02:116][129]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (7) out of bounds (count 0).'
+[2024.03.25-14.28.02:505][168]LogEditorTransaction: Undo Add Link
+[2024.03.25-14.28.02:730][168]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.28.02:822][170]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (0) out of bounds (count 0).'
+[2024.03.25-14.28.02:822][170]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (1) out of bounds (count 0).'
+[2024.03.25-14.28.02:822][170]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (2) out of bounds (count 0).'
+[2024.03.25-14.28.02:822][170]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (3) out of bounds (count 0).'
+[2024.03.25-14.28.02:822][170]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (4) out of bounds (count 0).'
+[2024.03.25-14.28.02:822][170]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (5) out of bounds (count 0).'
+[2024.03.25-14.28.02:822][170]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (6) out of bounds (count 0).'
+[2024.03.25-14.28.02:822][170]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (7) out of bounds (count 0).'
+[2024.03.25-14.28.03:184][205]LogEditorTransaction: Undo Delete selected nodes
+[2024.03.25-14.28.03:405][205]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.28.03:504][207]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (0) out of bounds (count 0).'
+[2024.03.25-14.28.03:504][207]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (1) out of bounds (count 0).'
+[2024.03.25-14.28.03:504][207]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (2) out of bounds (count 0).'
+[2024.03.25-14.28.03:504][207]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (3) out of bounds (count 0).'
+[2024.03.25-14.28.03:504][207]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (4) out of bounds (count 0).'
+[2024.03.25-14.28.03:504][207]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (5) out of bounds (count 0).'
+[2024.03.25-14.28.03:504][207]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (6) out of bounds (count 0).'
+[2024.03.25-14.28.03:504][207]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (7) out of bounds (count 0).'
+[2024.03.25-14.28.04:904][290]LogEditorTransaction: Redo Delete selected nodes
+[2024.03.25-14.28.05:133][290]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.28.05:149][290]LogEditorTransaction: Redo Add Link
+[2024.03.25-14.28.05:382][290]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.28.05:386][290]LogEditorTransaction: Redo Set Pin Default Value
+[2024.03.25-14.28.05:619][290]LogRigVM: Error: Array Index (0) out of bounds (count 0).
+[2024.03.25-14.28.05:619][290]LogRigVM: Error: Array Index (1) out of bounds (count 0).
+[2024.03.25-14.28.05:619][290]LogRigVM: Error: Array Index (2) out of bounds (count 0).
+[2024.03.25-14.28.05:619][290]LogRigVM: Error: Array Index (3) out of bounds (count 0).
+[2024.03.25-14.28.05:619][290]LogRigVM: Error: Array Index (4) out of bounds (count 0).
+[2024.03.25-14.28.05:619][290]LogRigVM: Error: Array Index (5) out of bounds (count 0).
+[2024.03.25-14.28.05:619][290]LogRigVM: Error: Array Index (6) out of bounds (count 0).
+[2024.03.25-14.28.05:619][290]LogRigVM: Error: Array Index (7) out of bounds (count 0).
+[2024.03.25-14.28.05:619][290]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.28.05:622][290]LogEditorTransaction: Redo Set Pin Default Value
+[2024.03.25-14.28.05:853][290]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.28.06:168][292]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (0) out of bounds (count 0).'
+[2024.03.25-14.28.06:168][292]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (1) out of bounds (count 0).'
+[2024.03.25-14.28.06:168][292]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (2) out of bounds (count 0).'
+[2024.03.25-14.28.06:168][292]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (3) out of bounds (count 0).'
+[2024.03.25-14.28.06:168][292]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (4) out of bounds (count 0).'
+[2024.03.25-14.28.06:168][292]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (5) out of bounds (count 0).'
+[2024.03.25-14.28.06:168][292]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (6) out of bounds (count 0).'
+[2024.03.25-14.28.06:168][292]LogRigVM: Error: Instruction[29] 'DISPATCH_RigVMDispatch_ArrayGetAtIndex::Array:TArray<double>,Index:int32,Element:double': 'Array Index (7) out of bounds (count 0).'
+[2024.03.25-14.28.07:243][385]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.28.07:297][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.03.25-14.28.07:402][388]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.28.07:446][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.03.25-14.28.08:012][439]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.28.08:055][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.03.25-14.28.08:140][441]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.28.08:182][441]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.25-14.28.53:158][ 16]LogEditorTransaction: Undo Deselect all nodes.
+[2024.03.25-14.28.53:365][ 16]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.28.53:730][ 25]LogEditorTransaction: Undo Add Link
+[2024.03.25-14.28.53:955][ 25]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.28.54:397][ 67]LogEditorTransaction: Undo Add 'Add' Node
+[2024.03.25-14.28.54:616][ 67]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.30.13:300][949]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.30.13:365][949]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.03.25-14.30.16:584][133]LogSlate: Window 'Create New Animation Object' being destroyed
+[2024.03.25-14.30.24:253][897]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.30.24:296][897]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2024.03.25-14.30.57:473][228]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.25-14.30.57:477][228]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ProceduralAnimTest' took 0.020
+[2024.03.25-14.30.57:477][228]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig] ([2] browsable assets)...
+[2024.03.25-14.30.57:532][228]OBJ SavePackage:     Rendered thumbnail for [ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig]
+[2024.03.25-14.30.57:532][228]OBJ SavePackage: Finished generating thumbnails for package [/Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig]
+[2024.03.25-14.30.57:629][228]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig_Auto2
+[2024.03.25-14.30.57:630][228]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRig_Auto21D7BFE9646AEE0DB0D8D8D8B31CE2A96.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/Autosaves/Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig_Auto2.uasset'
+[2024.03.25-14.30.57:631][228]LogFileHelpers: Auto-saving content packages took 0.154
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 0 (Found bundle for host: 0x84388150150 [serially])
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 6 (Closing connection)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F860B80-40BD-73E0-118C-C4945228B3BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 9 (  Trying 107.23.71.122:443...)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (107.23.71.122) port 443)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 34 (Closing connection)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: 000008443569F000: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-14.31.20:814][369]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F860B80-40BD-73E0-118C-C4945228B3BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-14.33.41:307][455]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.33.41:352][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 0 (Found bundle for host: 0x84388150e10 [serially])
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 6 (Closing connection)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F860B80-40BD-73E0-118C-C4945228B3BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 9 (  Trying 3.92.12.60:443...)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (3.92.12.60) port 443)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 34 (Closing connection)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: 000008444B34DC00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-14.34.20:031][ 75]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F860B80-40BD-73E0-118C-C4945228B3BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.25-14.34.51:196][ 34]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.34.51:251][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.03.25-14.34.51:336][ 36]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.34.51:380][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.25-14.34.51:463][ 40]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.34.51:508][ 40]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.03.25-14.34.51:607][ 46]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.34.51:651][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.03.25-14.34.51:737][ 47]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.34.51:783][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.03.25-14.36.35:931][968]LogEditorTransaction: Undo Deselect all nodes.
+[2024.03.25-14.36.36:149][968]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.36.37:170][ 41]LogEditorTransaction: Undo Set Pin Default Value
+[2024.03.25-14.36.37:395][ 41]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.03.25-14.36.51:507][356]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.36.51:557][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.03.25-14.36.51:640][357]BlueprintLog: New page: Compile SpiderWalkControlRig
+[2024.03.25-14.36.51:685][357]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.03.25-14.37.15:547][724]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.03.25-14.37.15:553][724]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.25-14.37.15:778][724]LogSavePackage: Moving output files for package: /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig
+[2024.03.25-14.37.15:780][724]LogSavePackage: Moving '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Saved/SpiderWalkControlRigBC64AEB24461595B642C489BB29DA838.tmp' to '../../../../../../Users/megal/Documents/GitHub/ProceduralAnimationTesting/ProceduralAnimTest1/Content/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.uasset'
+[2024.03.25-14.37.15:788][724]LogFileHelpers: InternalPromptForCheckoutAndSave took 234 ms (total: 1.59 sec)
+[2024.03.25-14.37.15:793][724]AssetCheck: New page: Asset Save: SpiderWalkControlRig
+[2024.03.25-14.37.15:793][724]LogContentValidation: Display: Validating /Script/ControlRigDeveloper.ControlRigBlueprint /Game/MultiLegTutorial/SpiderTutorial/SpiderWalkControlRig.SpiderWalkControlRig
+[2024.03.25-14.37.20:820][800]LogHttp: Warning: 000008444A754B00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.25-14.37.20:820][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 0 (Found bundle for host: 0x843881507b0 [serially])
+[2024.03.25-14.37.20:820][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 1 (Re-using existing connection with host datarouter.ol.epicgames.com)
+[2024.03.25-14.37.20:820][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2024.03.25-14.37.20:820][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 3 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.25-14.37.20:820][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 4 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 5 (state.rewindbeforesend = TRUE)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 6 (Closing connection)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 8 (Issue another request to this URL: 'https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F860B80-40BD-73E0-118C-C4945228B3BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream')
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 9 (  Trying 54.84.178.8:443...)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 10 (Connected to datarouter.ol.epicgames.com (54.84.178.8) port 443)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 11 (ALPN: curl offers http/1.1)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 12 (SSL reusing session ID)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 13 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 14 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 15 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 16 (TLSv1.2 (IN), TLS handshake, Server key exchange (12):)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 17 (TLSv1.2 (IN), TLS handshake, Server finished (14):)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 18 (TLSv1.2 (OUT), TLS handshake, Client key exchange (16):)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 19 (TLSv1.2 (OUT), TLS change cipher, Change cipher spec (1):)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 20 (TLSv1.2 (OUT), TLS handshake, Finished (20):)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 21 (TLSv1.2 (IN), TLS handshake, Finished (20):)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 22 (old SSL session ID is stale, removing)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 23 (SSL connection using TLSv1.2 / ECDHE-RSA-AES128-GCM-SHA256)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 24 (ALPN: server accepted http/1.1)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 25 (Server certificate:)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 26 ( subject: CN=datarouter.cfef.live.use1a.on.epicgames.com)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 27 ( start date: Mar  4 00:00:00 2024 GMT)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 28 ( expire date: Apr  2 23:59:59 2025 GMT)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 29 ( subjectAltName: host "datarouter.ol.epicgames.com" matched cert's "datarouter.ol.epicgames.com")
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 30 ( issuer: C=US; O=Amazon; CN=Amazon RSA 2048 M03)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 31 ( SSL certificate verify ok.)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 32 (using HTTP/1.1)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 33 (necessary data rewind wasn't possible)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 34 (Closing connection)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: 000008444A754B00: libcurl info message cache 35 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.25-14.37.20:821][800]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B0F860B80-40BD-73E0-118C-C4945228B3BA%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=a067c381486a46f364964e86e4def4ed%7C7cf902ebcd024210bdc44e1cad5cab79%7C1ad76bb8-fa7d-425f-9022-f29c20e168c6&AppEnvironment=datacollector-binary&UploadType=eteventstream
